@@ -1,0 +1,20 @@
+
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* Debugged CSS  */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.yamm .nav > li.active > a , .yamm .nav > li.current > a {
+    color: #333333;
+}
+
+ 
+html .form-control::-moz-placeholder {
+ color: #000;
+}
+html .form-control:-ms-input-placeholder {
+color: #000;
+}
+html .form-control::-webkit-input-placeholder {
+color: #000;
+}
