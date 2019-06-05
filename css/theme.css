@@ -45,7 +45,7 @@
 body {
 	color: #525252;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 	line-height: 1.52857;
 }
 .ip-header .ip-loader svg path.ip-loader-circle {
@@ -55,7 +55,7 @@ body {
 }
 .yamm .nav > li > a {
 	font-family: 'latobold';
-	font-size: 14px !important;
+	font-size: 12px !important;
 
 }
 .yamm .nav > li:hover > a {
