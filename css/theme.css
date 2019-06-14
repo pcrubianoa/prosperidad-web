@@ -56,11 +56,11 @@ body {
 .yamm .nav > li > a {
 	font-family: 'latobold';
 	font-size: 14px !important;
-
 }
 .yamm .nav > li:hover > a {
 	color:#000 !important;
 }
+
 b, strong {
 	font-weight: normal;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -481,7 +481,7 @@ html [class^="flaticon-"]::before, html [class*=" flaticon-"]::before, html [cla
 .yamm .dropdown-menu {
 	background: none repeat scroll 0 0 #FFF;
 	position: absolute;
-	top: 70px;
+	top: 51px;
 	padding: 0;
 }
 .yamm .dropdown-menu ul {
